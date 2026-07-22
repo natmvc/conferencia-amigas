@@ -14,3 +14,5 @@ Landing page estatica da Conferencia Amigas.
 Este projeto deve ser publicado como site estatico. A pasta foi limpa para manter apenas os arquivos usados pela landing final.
 
 Arquivos locais de ambiente, caches, builds e dependencias instaladas ficam fora do Git e do deploy por meio de `.gitignore` e `.vercelignore`.
+
+Atualização para publicação na Vercel.
