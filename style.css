@@ -225,7 +225,7 @@ img {
   position: absolute;
   inset: 0;
   z-index: -2;
-  background: url("assets/motion-blur-bg.png") center / cover no-repeat;
+  background: var(--wine-dark);
   transform: scale(1.03);
 }
 
